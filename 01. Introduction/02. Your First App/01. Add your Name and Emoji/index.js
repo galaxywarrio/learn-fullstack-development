@@ -79,4 +79,4 @@ const App = (props) => {
 };
 
 // CHALLENGE: add your own name and emoji to the website
-ReactDOM.render(<App name="Someone" emoji="👋"/>, document.getElementById("root"));
+ReactDOM.render(<App name="Billu" emoji="🙌"/>, document.getElementById("root"));
